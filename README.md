@@ -16,3 +16,6 @@ Al igual que Linux, Git es  software libre.
 
 # Roberto Pineda
 ## **+51916730940**
+
+# Cristhyan Correa
+## **+51966624123**
